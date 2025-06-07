@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\ImageModifierEnhanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1744FCCE-4E88-4958-BBA3-046335B064F5}|ImageModifier.vbproj|c:\\users\\bellg\\onedrive\\desktop\\past classes\\application development\\imagemodifierenhanced\\frmimagemodifier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1744FCCE-4E88-4958-BBA3-046335B064F5}|ImageModifier.vbproj|solutionrelative:frmimagemodifier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1744FCCE-4E88-4958-BBA3-046335B064F5}|ImageModifier.vbproj|C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\ImageModifierEnhanced\\frmimagemodifier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1744FCCE-4E88-4958-BBA3-046335B064F5}|ImageModifier.vbproj|solutionrelative:frmimagemodifier.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmImageModifier.vb",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\ImageModifierEnhanced\\frmImageModifier.vb",
+              "RelativeDocumentMoniker": "frmImageModifier.vb",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\ImageModifierEnhanced\\frmImageModifier.vb",
+              "RelativeToolTip": "frmImageModifier.vb",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAqwAwBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-30T02:35:27.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmImageModifier.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\ImageModifierEnhanced\\frmImageModifier.vb",
+              "RelativeDocumentMoniker": "frmImageModifier.vb",
+              "ToolTip": "C:\\Users\\bellg\\OneDrive\\Desktop\\Past classes\\Application Development\\ImageModifierEnhanced\\frmImageModifier.vb [Design]",
+              "RelativeToolTip": "frmImageModifier.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-30T02:34:00.131Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
