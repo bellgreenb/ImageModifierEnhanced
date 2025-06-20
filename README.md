@@ -1,6 +1,6 @@
 # Image Modifier
 #### This application lets you upload an image from your computer and select from a variety of different filters. You can also save the filtered copy to your computer, alongside the original. Make sure to click the 'convert to' button so that the filters change accordingly.
-![image](https://github.com/user-attachments/assets/be955cb0-6cbd-4230-a52e-d6064d80b4fb)
+![image](https://github.com/user-attachments/assets/eab66d17-f343-4618-a06c-9cebb59fced3)
 
 #### Monochrome
 ![image](https://github.com/user-attachments/assets/cd0a34a0-cb06-4f7d-bcb2-1bc3be1140ec)
